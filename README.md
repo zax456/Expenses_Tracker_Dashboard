@@ -1,4 +1,4 @@
-# Finance_Tracker_Dashboard
+# Expenses_Tracker_Dashboard
 Dashboard to report yearly/monthly/weekly expenses!
 Side project to apply tableau skills learnt. Done using Tableau Public v20.
 
